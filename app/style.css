@@ -1,0 +1,17 @@
+/*
+Theme Name: Xequence
+Theme URI: https://xequence.com
+Author: Xequence Inc.
+Author URI: https://xequence.com
+Description: A custom WordPress theme for Xequence Inc., a SaaS company focused on developer collaboration.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: xequence
+Tags: custom, saas, tailwind, developer, collaboration
+*/
+
+/* 
+This is the main stylesheet for the Xequence WordPress theme.
+Most styles are handled by Tailwind CSS, but you can add custom CSS here.
+*/

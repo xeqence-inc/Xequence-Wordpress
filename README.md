@@ -1,5 +1,6 @@
 # Xequence WordPress Theme
 
+![Xequence Theme](screenshot.png)
 
 ## Overview
 
@@ -102,7 +103,7 @@ This theme is licensed under the GPL v2 or later. See the LICENSE file for detai
 
 Xequence Inc. is a software company focused on developer tools and collaboration platforms. We're building the next generation of developer communication tools, and we're passionate about open source and giving back to the community.
 
-Visit our website at [xeq.one](https://xeq.one) to learn more about our products and services.
+Visit our website at [xequence.com](https://xequence.com) to learn more about our products and services.
 
 ---
 
